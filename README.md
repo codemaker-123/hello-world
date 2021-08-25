@@ -1,2 +1,3 @@
 # hello-world
-随便玩玩
+Hi humans!
+Hubot here.I like Node
